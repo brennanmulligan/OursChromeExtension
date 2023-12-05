@@ -5,6 +5,11 @@
   "version": "1.0",
   "action": {
     "default_popup": "hello.html",
-    "default_icon": "OursClockIcon.png"
+  }
+  "icons": {
+    "16": "Photos/OursIcon16.png",
+    "32": "images/OursIcon32.png",
+    "48": "images/OursIcon48.png",
+    "128": "images/OursIcon128.png"
   }
 }
