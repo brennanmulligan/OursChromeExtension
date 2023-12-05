@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Ours - Time Tracker",
+  "description": "Track how much time is spent on sites",
+  "version": "1.0",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "OursClockIcon.png"
+  }
+}
